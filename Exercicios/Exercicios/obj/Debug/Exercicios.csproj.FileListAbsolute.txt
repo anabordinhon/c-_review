@@ -1,0 +1,13 @@
+c:\users\abordinhon\documents\visual studio 2015\Projects\Exercicios\Exercicios\bin\Debug\Exercicios.exe.config
+c:\users\abordinhon\documents\visual studio 2015\Projects\Exercicios\Exercicios\bin\Debug\Exercicios.exe
+c:\users\abordinhon\documents\visual studio 2015\Projects\Exercicios\Exercicios\bin\Debug\Exercicios.pdb
+c:\users\abordinhon\documents\visual studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.exe
+c:\users\abordinhon\documents\visual studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.pdb
+c:\users\abordinhon\documents\visual studio 2015\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.csprojResolveAssemblyReference.cache
+C:\Users\anabo\Google Drive (anabordinhon.estudos@gmail.com)\ADS\4º Sem\DevWeb\Exercicios\Exercicios\Exercicios\bin\Debug\Exercicios.exe.config
+C:\Users\anabo\Google Drive (anabordinhon.estudos@gmail.com)\ADS\4º Sem\DevWeb\Exercicios\Exercicios\Exercicios\bin\Debug\Exercicios.exe
+C:\Users\anabo\Google Drive (anabordinhon.estudos@gmail.com)\ADS\4º Sem\DevWeb\Exercicios\Exercicios\Exercicios\bin\Debug\Exercicios.pdb
+C:\Users\anabo\Google Drive (anabordinhon.estudos@gmail.com)\ADS\4º Sem\DevWeb\Exercicios\Exercicios\Exercicios\obj\Debug\Exercicios.csprojAssemblyReference.cache
+C:\Users\anabo\Google Drive (anabordinhon.estudos@gmail.com)\ADS\4º Sem\DevWeb\Exercicios\Exercicios\Exercicios\obj\Debug\Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\anabo\Google Drive (anabordinhon.estudos@gmail.com)\ADS\4º Sem\DevWeb\Exercicios\Exercicios\Exercicios\obj\Debug\Exercicios.exe
+C:\Users\anabo\Google Drive (anabordinhon.estudos@gmail.com)\ADS\4º Sem\DevWeb\Exercicios\Exercicios\Exercicios\obj\Debug\Exercicios.pdb
